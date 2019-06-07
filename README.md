@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is a new idea of making code make more meaningful sense from a basic reading standpoint. This allows people to understand the intent of the original programmer more quickly when needing to make changes down the line. An example of this would be naming the top section of your website a header much like a news paper page has a header.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+The CSS display property controls how things are arranged and shown on a section of the web page. The Block value will make sure that whatever element this is being applied to is allowed the complete width of the section it is within. This will push any other element down to the next line in a vertical arrangement. The Inline value will arrange the following items in a section across in a horizontal arrangement.
 
 3. What are the 4 areas of the box model?
 
+Margin, Border, Padding, Content
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+the Cross Axis
+
 5. Explain why git is valuable to a team of developers.
+
+Version control and coordination through a central management system. Currently I'm working on MY forked version of this project. If I had a partner they could work on their section of the same project and we can coordinate our actions and merge our work.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
