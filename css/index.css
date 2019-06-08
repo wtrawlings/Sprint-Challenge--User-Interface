@@ -301,3 +301,10 @@ nav a {
 #b10 {
     background-color: dodgerblue;
 }
+
+.main-about {
+    padding: 20px;
+    border-bottom: 2px dotted black;
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
