@@ -250,9 +250,12 @@ header {
 nav {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 30px;
+    align-items: center;
+    margin-bottom: 40px;
 }
 
 nav a {
     color: black;
+    font-size: 14px;
+    text-decoration: none;
 }
