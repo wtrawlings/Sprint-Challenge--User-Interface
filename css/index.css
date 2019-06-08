@@ -308,3 +308,8 @@ nav a {
     margin-top: -30px;
     margin-bottom: 30px;
 }
+
+.main-close {
+    padding: 20px;
+    margin-bottom: 15px;
+}
