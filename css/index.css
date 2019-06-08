@@ -258,6 +258,8 @@ nav a {
     color: black;
     font-size: 14px;
     text-decoration: none;
+    margin-top: auto;
+    margin-right: 43px;
 }
 
 #b1 {
