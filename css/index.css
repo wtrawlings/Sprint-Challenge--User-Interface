@@ -313,3 +313,16 @@ nav a {
     padding: 20px;
     margin-bottom: 15px;
 }
+
+.ctabox button {
+    padding: 5px 20px;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: 16px;
+    background-color: white;
+}
+
+.ctabox {
+    border-bottom: 2px dotted black;
+    padding: 5px;
+}
